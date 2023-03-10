@@ -13,9 +13,9 @@ class SplashScreen extends StatelessWidget {
       nextScreen: TodoApp(),
       splashTransition: SplashTransition.rotationTransition,
      // duration: 2000,
-     // animationDuration: Duration(milliseconds: 200),
+      animationDuration: Duration(milliseconds: 1000),
       backgroundColor: Colors.white,
-      duration: 2000,
+      duration: 1100,
 
 
     );

@@ -8,7 +8,8 @@ class TodoApp extends StatelessWidget {
     return Scaffold(
       backgroundColor: Colors.white,
       appBar: AppBar(
-        title: const Text('Notepad',style: TextStyle(color: Colors.black,fontWeight: FontWeight.bold,
+        title: const Text('Notepad',style: TextStyle(color: Colors.black,
+          fontWeight: FontWeight.w500,
         fontSize: 32.0,
           height: 2.0,
 
